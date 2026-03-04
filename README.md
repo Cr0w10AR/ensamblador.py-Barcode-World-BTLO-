@@ -1,7 +1,7 @@
 # Barcode Batch Extractor & ASCII Decoder
 
 Contexto del Proyecto
-Herramienta de extracción forense y automatización desarrollada para la resolución de un reto de Blue Team Labs. Este proceso forma parte de las investigaciones documentadas en la serie técnica The Crow's Hunt.
+Herramienta de extracción forense y automatización desarrollada para la resolución de un reto de Blue Team Labs.
 
 El Escenario y la Trampa (El Problema)
 El incidente presentaba un directorio contaminado con 9374 imágenes etiquetadas numéricamente (ej. 1333.png, 1334.png).
